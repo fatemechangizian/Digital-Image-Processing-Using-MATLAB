@@ -1,25 +1,24 @@
 # Digital-Image-Processing-Using-MATLAB
 “Digital Image Processing” Workshop - Based on Digital Image Processing Book by Rafael C. Gonzalez and Richard E. Woods
-Digital image processing course by SIP Lab and IEEE Community of Shiraz University (Mr. Faghihi who is one of the PhD lab members). This course introduces basic concepts and methodologies applicable to digital image processing, and to develop a foundation that can be used as the basis for further study and research in this field based on Digital Image Processing Book by Rafael C. Gonzalez.
+Digital image processing course by SIP Lab Under Supervision of Mr. Faghihi (who is one of the PhD lab members). This course introduces basic concepts and methodologies applicable to digital image processing, and to develop a foundation that can be used as the basis for further study and research in this field based on Digital Image Processing Book by Rafael C. Gonzalez.
 
 Outline:
 
 1. Introduction:
-What are we going to do?
-Digital image processing platforms
-What you should know before starting!
-Fields that use digital image processing
-Useful Books and references
+
+MATLAB Problem 1.3: Histogram Processing - Histogram Equalizing
 
 2. Digital Image Fundamentals:
-Human eye
-Imaging devices
-Pixels, resolution, intensity, color
-Different color spaces and how to use them
+
+MATLAB Problem 2.1: Filter - Filtering an Image
+
+MATLAB Problem 2.2: Spatial Filtering - Enhancement Using Laplacian
+
+MATLAB Problem 2.3: Spatial Filtering - Playing with filters
+
+MATLAB Problem 2.4: Spatial Filtering - Median Filter
 
 3. Basic Histogram Processing:
-Why is histogram useful?
-Histogram equalizing
 
 4. Spatial Filtering:
 How to use filters?
